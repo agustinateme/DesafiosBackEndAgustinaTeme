@@ -1,0 +1,46 @@
+[
+	{
+		"title": "Iphone 14 PRO MAX",
+		"description": "6 RAM, 128 ROM",
+		"price": 1900,
+		"thumbnail": "./iphone14pm.svg",
+		"code": "abc123",
+		"stock": 25,
+		"status": true,
+		"category": "phone",
+		"id": 1
+	},
+	{
+		"title": "Tablet S6 Lite Samsung",
+		"description": "4 RAM, 64 ROM",
+		"price": 2500,
+		"thumbnail": "./s6lite.svg",
+		"code": "as123",
+		"stock": 7,
+		"status": true,
+		"category": "tablet",
+		"id": 2
+	},
+	{
+		"title": "Xiaomi 12",
+		"description": "12 RAM, 264 ROM",
+		"price": 2000,
+		"thumbnail": "./xiaomi14pm.svg",
+		"code": "asdf88",
+		"stock": 6,
+		"status": true,
+		"category": "phone",
+		"id": 3
+	},
+	{
+		"title": "samsung a11",
+		"description": "12 RAM, 264 ROM",
+		"price": 2000,
+		"thumbnail": "./samsung.svg",
+		"code": "a45454",
+		"stock": 4,
+		"status": true,
+		"category": "phone",
+		"id": 4
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Nombre 1",
+		"description": "Descripción 1",
+		"price": 100,
+		"thumbnail": "./imagen1.svg",
+		"code": "abc123",
+		"stock": 25,
+		"id": 1
+	},
+	{
+		"title": "Nombre 2",
+		"description": "Descripción 2",
+		"price": 200,
+		"thumbnail": "./imagen2.svg",
+		"code": "abc456",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "Nombre 3",
+		"description": "Descripción 3",
+		"price": 300,
+		"thumbnail": "./imagen3.svg",
+		"code": "abc789",
+		"stock": 25,
+		"id": 3
+	},
+	{
+		"title": "Nombre 4",
+		"description": "Descripción 4",
+		"price": 400,
+		"thumbnail": "./imagen4.svg",
+		"code": "def123",
+		"stock": 30,
+		"id": 4
+	},
+	{
+		"title": "Nombre 5",
+		"description": "Descripción 5",
+		"price": 500,
+		"thumbnail": "./imagen5.svg",
+		"code": "def456",
+		"stock": 2,
+		"id": 5
+	},
+	{
+		"title": "Nombre 6",
+		"description": "Descripción 6",
+		"price": 600,
+		"thumbnail": "./imagen6.svg",
+		"code": "def789",
+		"stock": 21,
+		"id": 6
+	},
+	{
+		"title": "Nombre 7",
+		"description": "Descripción 7",
+		"price": 700,
+		"thumbnail": "./imagen7.svg",
+		"code": "ghi123",
+		"stock": 5,
+		"id": 7
+	},
+	{
+		"title": "Nombre 8",
+		"description": "Descripción 8",
+		"price": 800,
+		"thumbnail": "./imagen8.svg",
+		"code": "ghi456",
+		"stock": 3,
+		"id": 8
+	},
+	{
+		"title": "Nombre 9",
+		"description": "Descripción 9",
+		"price": 900,
+		"thumbnail": "./imagen9.svg",
+		"code": "ghi789",
+		"stock": 14,
+		"id": 9
+	},
+	{
+		"title": "Nombre 10",
+		"description": "Descripción 10",
+		"price": 1000,
+		"thumbnail": "./imagen10.svg",
+		"code": "jkl123",
+		"stock": 5,
+		"id": 10
+	}
+]
