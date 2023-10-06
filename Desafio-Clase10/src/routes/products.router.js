@@ -24,7 +24,6 @@ router.get('/', async (req, res) => {
     catch (error) {
         res.status(400).send({ error: error.message });
     }
-    
 })
 
 router.get('/:pid', async (req, res) => {
@@ -44,8 +43,8 @@ router.post('/', async (req, res) => {
         const product = req.body;
         await productManager.addProduct(product);
         res.status(200).send({ status: 'success', payload: product });
-
-       //nuevo código para el desafio10
+       
+        //nuevo código para el desafio10
         const io = req.app.get('socketio');
         io.emit('showProducts', await productManager.getProducts());
     }
@@ -83,5 +82,10 @@ router.delete('/:pid', async (req, res) => {
         res.status(400).send({ error: error.message }); 
     }
 });
+
+
+
+
+
 
 export default router;

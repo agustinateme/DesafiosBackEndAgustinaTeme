@@ -22,23 +22,23 @@
 		"id": 2
 	},
 	{
+		"title": "moto e20",
+		"description": "4 RAM, 64 ROM",
+		"price": 100,
+		"thumbnail": "./motorola.svg",
+		"code": "aa",
+		"stock": 3,
+		"status": true,
+		"category": "phone",
+		"id": 3
+	},
+	{
 		"title": "Xiaomi 12",
 		"description": "12 RAM, 264 ROM",
 		"price": 2000,
 		"thumbnail": "./xiaomi14pm.svg",
 		"code": "asdf88",
 		"stock": 6,
-		"status": true,
-		"category": "phone",
-		"id": 3
-	},
-	{
-		"title": "samsung a11",
-		"description": "12 RAM, 264 ROM",
-		"price": 2000,
-		"thumbnail": "./samsung.svg",
-		"code": "a45454",
-		"stock": 4,
 		"status": true,
 		"category": "phone",
 		"id": 4
